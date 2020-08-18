@@ -16,7 +16,7 @@
             "fontSize": "25px"
         },
         "headerBtn": {
-            "backgroundColor": "green",
+            "backgroundColor": "green"
         }
     }
     }
