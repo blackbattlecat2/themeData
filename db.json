@@ -18,5 +18,18 @@
         "headerBtn": {
             "backgroundColor": "green"
         }
-    }
-    }
+    },
+ "main": {
+         "mainContainer" : {
+                 "backgroundColor": "#D9F5FC"
+         },
+         "mainHeading" : {
+         "color": "red",
+            "fontSize": "25px",
+            "fontFamily": "Tahoma, san-serif"
+ },
+ "mainItemDescription" : {
+         "color": "blue"
+ }
+ }
+}
