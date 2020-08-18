@@ -1,0 +1,22 @@
+{"header": {
+        "headerContainer": {
+        "backgroundColor": "#FBFCD9",
+        },
+        "headerCompanyName": {
+            "color": "red",
+            "fontSize": "25px",
+            "fontFamily": "Tahoma, san-serif"
+        },
+        "headerLinks": {
+            "color": "blue",
+            "fontSize": "20px"
+        },
+        "headerParagraph": {
+            "color": "red",
+            "fontSize": "25px"
+        },
+        "headerBtn": {
+            "backgroundColor": "green",
+        }
+    }
+    }
